@@ -4,6 +4,9 @@
 > 
 > *An AI-powered archive that automatically updates itself whenever a new viral meme drops.*
 
+🌐 **Live Site:** [https://mememory.online/](https://mememory.online/)
+
+[![Live Website](https://img.shields.io/badge/Live-mememory.online-purple?style=flat-square&logo=google-chrome&logoColor=white)](https://mememory.online/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-HistoryOfMemes-blue?style=flat-square&logo=github)](https://github.com/tyoli97/HistoryOfMemes)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Status: Sentient](https://img.shields.io/badge/Status-Sentient%20%26%20Learning-brightgreen?style=flat-square)]()
@@ -12,7 +15,7 @@
 
 ## 🌟 What is Mememory?
 
-**Mememory** is a living, breathing, AI-driven encyclopedia dedicated to internet culture. Instead of a static wiki that relies on slow human edits, Mememory acts as a sentient digital historian—continuously monitoring, analyzing, categorizing, and documenting viral memes the moment they explode across the internet. 
+**Mememory** ([mememory.online](https://mememory.online/)) is a living, breathing, AI-driven encyclopedia dedicated to internet culture. Instead of a static wiki that relies on slow human edits, Mememory acts as a sentient digital historian—continuously monitoring, analyzing, categorizing, and documenting viral memes the moment they explode across the internet. 
 
 Whether it's a TikTok audio trend, an X (Twitter) shitpost, a Twitch emote, or a deep-fried Reddit format, Mememory breaks down the **origin**, **spread**, **cultural impact**, and **anatomy** of the meme in real time.
 
@@ -32,7 +35,7 @@ Whether it's a TikTok audio trend, an X (Twitter) shitpost, a Twitch emote, or a
 1. **Ingestion:** Background crawlers monitor trending keywords, hashtags, engagement spikes, and viral audio tags across major social platforms.
 2. **Context Gathering:** When a viral anomaly is detected, the AI engine gathers source material (origin posts, primary creators, and early reactions).
 3. **Synthesis:** The "sentient" core compiles this data into a structured encyclopedia entry—complete with lore, historical context, and timeline tracking.
-4. **Live Publication:** The new entry is automatically indexed, cross-referenced with related memes, and pushed to the live Mememory interface.
+4. **Live Publication:** The new entry is automatically indexed, cross-referenced with related memes, and pushed live to [mememory.online](https://mememory.online/).
 
 ---
 
@@ -50,7 +53,7 @@ Whether it's a TikTok audio trend, an X (Twitter) shitpost, a Twitch emote, or a
 
 ## 🏁 Getting Started
 
-Follow these steps to run **Mememory** locally on your machine.
+Want to run a local instance of **Mememory**? Follow these steps:
 
 ### Prerequisites
 
