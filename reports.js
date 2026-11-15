@@ -2,7 +2,7 @@ import { db } from "./firebase-config.js";
 import { getCurrentUser } from "./auth.js";
 
 import {
-    collection,
+    collection, 
     addDoc,
     doc,
     getDoc,
